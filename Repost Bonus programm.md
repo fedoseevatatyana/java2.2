@@ -12,4 +12,4 @@
 ## Результаты
 
 1. 100 % неуспешных тестов/ всего 1 тест
-2. Заведено 1 issue
+2. Заведено 1 issue (https://github.com/fedoseevatatyana/java2.2/issues/1)
